@@ -47,6 +47,8 @@
 
 ---
 
+> This private repository contains a copy of [morluto/rea](https://github.com/morluto/rea); the website, packages and some links below refer to the upstream project.
+
 See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a version for your project.
 
 REA connects your agent to tools for inspecting native binaries, JavaScript and Electron apps, .NET assemblies, and websites. You can also use the same tools from your terminal. Analysis runs locally, and results include the evidence and limitations behind each conclusion.
